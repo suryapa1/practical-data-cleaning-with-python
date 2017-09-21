@@ -1,1 +1,1 @@
-This is the repo for "Practical Data Cleaning with Python" with Katharine Jarmul <kjarmul@gmail.com>
+This is the repo for "Practical Data Cleaning with Python" with Katharine Jarmul
