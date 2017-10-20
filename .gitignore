@@ -1,0 +1,12 @@
+.*/*
+*.pyc
+*~
+.ropeproject*
+*.cfg
+.ipynb*
+*.log
+**/ignore-*
+generate-*
+*.db
+**/.hypothesis*
+*.png
