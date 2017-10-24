@@ -8,6 +8,10 @@ If you have a suggestion for another library or additional topic, feel free to d
 
 ### Installation
 
+**All of the coding exercises in the course will be hosted on JupyterHub, and we'll send the URL out at the start of class. Purely browser-based, no installations required. You will be able to download the jupyter notebooks to save.**
+
+If you would like to install locally, please follow these steps:
+
 These lessons has been tested for Python 3.4 and Python 3.6 and primarily uses the latest release of each library, except where versions are pinned. You likely can run most of the code with older releases, but if you run into an issue, try upgrading the library in question first.
 
 ```pip install -r install_reqs.txt```
