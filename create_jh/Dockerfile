@@ -1,4 +1,4 @@
-FROM us.gcr.io/jupyterhub-170614/0636920072928:v2.0
+FROM us.gcr.io/jupyterhub-170614/0636920072928:v3.0
 
 USER root
 # notebook and ipykernel should already be installed. now just need jupyterhub
