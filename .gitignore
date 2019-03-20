@@ -5,6 +5,11 @@
 *.cfg
 .ipynb*
 *.log
+dask-worker-space*
+*.cfg
+.ipynb*
+*.log
+*.*lock
 **/ignore-*
 generate-*
 *.db
